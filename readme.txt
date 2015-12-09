@@ -1,20 +1,20 @@
 ZCU	FAV	KIV/WEB
 --------------------------------------------
-Autor: 	David Košek
+Autor: 	David KoÅ¡ek
 ID:	A14N0132P
 Email:	kosek@students.zcu.cz
 --------------------------------------------
-Ke staení...
+Ke staÅ¾enÃ­...
 https://github.com/kosa13/kiv_web_redakcni_system.git
 --------------------------------------------
-Popis adresáøe
+Popis adresÃ¡Ã¸e
 
-/doc 	- dokumentace k semestrální práci
-/scritp	- skript pro vytvoøení DB vèetnì dat	
-/src 	- samotná webová aplikace
+/doc 	- dokumentace k semestrÃ¡lnÃ­ prÃ¡ci
+/scritp	- skript pro vytvoÃ¸enÃ­ DB vÃ¨etnÃ¬ dat	
+/src (the rest of files) 	- samotnÃ¡ webovÃ¡ aplikace
 --------------------------------------------
-Pøedpøipravení uivatelé - jejich role 
-vyplıvá z loginu
+PÃ¸edpÃ¸ipravenÃ­ uÅ¾ivatelÃ© - jejich role 
+vyplÃ½vÃ¡ z loginu
 
 login: autor		password: 123456
 login: secondAutor	password: 123456
